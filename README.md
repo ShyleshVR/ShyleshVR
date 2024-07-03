@@ -17,7 +17,6 @@ Hi, I'm Shylesh, an undergraduate student passionate about App Development. I lo
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShyleshVR&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShyleshVR&layout=compact&theme=radical)
 
 ## Thanks for visiting!
