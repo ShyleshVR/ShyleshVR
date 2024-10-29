@@ -6,7 +6,7 @@ Hi, I'm Shylesh, an undergraduate student passionate about Application Developme
 
 ## My Skills
 
-- **Programming Languages**: Python, JavaScript, Rust, Kotlin, C, C++, SQL, HTML
+- **Programming Languages**: Python,Java, JavaScript, Rust, Kotlin, C, C++, SQL, HTML
 - **Technologies**: Web Development, Fullstack Development, Cloud Computing, Android App Development
 - **Frameworks & Libraries**:  ReactJS, Angular, NodeJS, TypeScript, Tailwind CSS
 - **Developer Tools**:  Git, Node.js, Docker, Kuberbetes
