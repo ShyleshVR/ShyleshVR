@@ -2,18 +2,22 @@
 
 ## About Me
 
-Hi, I'm Shylesh, an undergraduate student passionate about App Development. I love exploring new technologies, building cool projects, and learning continuously.
+Hi, I'm Shylesh, an undergraduate student passionate about Application Development. I love exploring new technologies, building cool projects, and learning continuously.
 
 ## My Skills
 
-- **Programming Languages**: Python, JavaScript, Kotlin, C, C++, 
-- **Frameworks and Libraries**: Node.js, React
-- **Tools and Platforms**: VSCode, Android Studio, Git
+- **Programming Languages**: Python, JavaScript, Rust, Kotlin, C, C++, SQL, HTML
+- **Technologies**: Web Development, Fullstack Development, Cloud Computing, Android App Development
+- **Frameworks & Libraries**:  ReactJS, Angular, NodeJS, TypeScript, Tailwind CSS
+- **Developer Tools**:  Git, Node.js, Docker, Kuberbetes
+- **Cloud Platforms**: AWS, Firebase
+- **Database**:  MongoDB, PostgreSQL, MySQL
+- **Other Skills**: : Prioritize Tasks, Conflict Management, Communication starter, Computer Hardware Expert
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/shyleshvr)
-[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:shylu962@gmail.com)
+[![Email](https://img.shields.io/badge/Email-blue?style=flat&logo=gmail)](mailto:shyleshvr13012004@gmail.com)
 
 ## GitHub Stats
 
